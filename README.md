@@ -4,7 +4,7 @@
 
 # Simple CorDapp Example
 
-This CorDapp serves as a demo for a simple use case of a vehicle trading application on Corda. The hypothetical scenario I used is AM General selling their newly manufactured Humvee NXT 360 to US military. 
+This CorDapp serves as a demo for a simple use case of a vehicle trading application. The hypothetical scenario I used is AM General selling their newly manufactured Humvee NXT 360 to US military. 
 
 Although the project contains a Client folder, for the sake of simplicity I decided not to build the frontend.
 
